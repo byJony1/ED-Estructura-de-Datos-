@@ -1,4 +1,4 @@
-# ED-Estructura-de-Datos-
+# ED (Estructura de Datos)
 Repositorio de la asignatura Estructuda de Datos de segundo año de ingenieria informatica en la Escuela de Ingenieria Informatica (EII).
 
 Se trata de un backup de todas las prácticas de laboratorio de la asignatura cursada en segundo. Todos los archivos seran visibles.
